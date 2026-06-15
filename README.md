@@ -37,4 +37,4 @@ Data Analyst | SQL • Power BI • Python
 - **Excel:** Pivot Tables, VLOOKUP
 
 ## 📫 Connect
-[LinkedIn](your-linkedin-link)
+[LinkedIn](https://www.linkedin.com/in/mukunda-gc-921948375)
