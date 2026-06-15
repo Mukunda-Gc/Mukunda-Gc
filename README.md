@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mukunda Gc 👋
+Data Analyst | SQL • Power BI • Python
 
-<!--
-**Mukunda-Gc/Mukunda-Gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Projects
 
-Here are some ideas to get you started:
+### 1. Superstore Sales Analysis
+**Tools:** SQL (MySQL), Power BI  
+**What I did:**
+- Analyzed 9,994 sales records
+- Built 4-visual dashboard (bar, line, map, KPI)
+- Added dynamic date slicer for trend filtering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [GitHub Repo]([your-repo-link](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis)) | [View Dashboard PDF](screenshots/superstore_dashboard.pdf)
+
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
+
+---
+
+### 2. COVID-19 India State-wise Tracker
+**Tools:** SQL (MySQL), Power BI  
+**What I did:**
+- Queried top 10 most affected states using GROUP BY
+- Built interactive line chart with state-level slicer
+
+🔗 [GitHub Repo]([your-repo-link](https://github.com/Mukunda-Gc/Covid19-india-tracker)) | [View Dashboard PDF](screenshots/covid_india_tracker.pdf)
+
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
+
+---
+
+## 🛠️ Skills
+- **SQL:** MySQL, data extraction, EDA
+- **Power BI:** DAX, Power Query, dashboards
+- **Python:** Pandas, Jupyter Notebook
+- **Excel:** Pivot Tables, VLOOKUP
+
+## 📫 Connect
+[LinkedIn](your-linkedin-link)
