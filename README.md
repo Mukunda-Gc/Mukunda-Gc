@@ -10,7 +10,9 @@ Data Analyst | SQL • Power BI • Python
 - Built 4-visual dashboard (bar, line, map, KPI)
 - Added dynamic date slicer for trend filtering
 
-🔗 [GitHub Repo](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis) | [View Dashboard PDF](screenshots/superstore_dashboard.pdf)
+🔗 [GitHub Repo](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis) | [View Dashboard PDF](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis/blob/main/screenshots/superstore_dashboard.pdf)
+
+![Dashboard Preview](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis/raw/main/screenshots/dashboard_preview.png)
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
 
