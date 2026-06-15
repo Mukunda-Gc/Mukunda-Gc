@@ -21,9 +21,9 @@ Data Analyst | SQL • Power BI • Python
 - Queried top 10 most affected states using GROUP BY
 - Built interactive line chart with state-level slicer
 
-🔗 [GitHub Repo](https://github.com/Mukunda-Gc/Covid19-india-tracker) | [View Dashboard PDF](screenshots/covid_india_tracker.pdf)
+🔗 [GitHub Repo](https://github.com/Mukunda-Gc/Covid19-india-tracker)
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](https://github.com/Mukunda-Gc/Covid19-india-tracker/blob/main/screenshots/dashboard_preview.png?raw=true)
 
 
 ---
