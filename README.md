@@ -24,6 +24,20 @@ Data Analyst | SQL • Power BI • Python
 🔗 [GitHub Repo](https://github.com/Mukunda-Gc/Covid19-india-tracker)
 
 ![Dashboard Preview](https://github.com/Mukunda-Gc/Covid19-india-tracker/blob/main/screenshots/dashboard_preview.png?raw=true)
+---
+
+### 3. HR Analytics Dashboard
+**Tools:** Power BI, Power Query (M)
+**What I did:**
+- Cleaned and transformed HR dataset of 311 employees (fixed date parsing, standardized categorical fields)
+- Built 3-page interactive dashboard: Overview, Attrition, and Employee Details
+- Created DAX measures for Attrition Rate, Total Employees, and Average Salary
+🔗 [GitHub Repo](https://github.com/Mukunda-Gc/HR-Analytics-Dashboard)
+<p float="left">
+  <img src="https://github.com/Mukunda-Gc/HR-Analytics-Dashboard/blob/main/Screenshots/overview.png?raw=true" width="300" />
+  <img src="https://github.com/Mukunda-Gc/HR-Analytics-Dashboard/blob/main/Screenshots/attrition.png?raw=true" width="300" />
+  <img src="https://github.com/Mukunda-Gc/HR-Analytics-Dashboard/blob/main/Screenshots/employee_details.png?raw=true" width="300" />
+</p>
 
 
 ---
