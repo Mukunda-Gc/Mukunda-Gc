@@ -10,7 +10,7 @@ Data Analyst | SQL • Power BI • Python
 - Built 4-visual dashboard (bar, line, map, KPI)
 - Added dynamic date slicer for trend filtering
 
-🔗 [GitHub Repo]([your-repo-link](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis)) | [View Dashboard PDF](screenshots/superstore_dashboard.pdf)
+🔗 [GitHub Repo](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis) | [View Dashboard PDF](screenshots/superstore_dashboard.pdf)
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
 
@@ -23,7 +23,7 @@ Data Analyst | SQL • Power BI • Python
 - Queried top 10 most affected states using GROUP BY
 - Built interactive line chart with state-level slicer
 
-🔗 [GitHub Repo]([your-repo-link](https://github.com/Mukunda-Gc/Covid19-india-tracker)) | [View Dashboard PDF](screenshots/covid_india_tracker.pdf)
+🔗 [GitHub Repo](https://github.com/Mukunda-Gc/Superstore-Sales-Analysis) | [View Dashboard PDF](screenshots/covid_india_tracker.pdf)
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
 
